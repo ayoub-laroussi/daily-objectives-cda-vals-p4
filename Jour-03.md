@@ -23,9 +23,9 @@ Seulement si le wargame bandit est au niveau 5 minimum :
     - [ ] git clone
     - [x] git remote
 - [ ] Faire le parcours Git-it pour les débutants (Nodeschool.io)
-- [ ] Faire ses premiers commits sur les daily objectives
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-- [ ] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
+- [x] Faire ses premiers commits sur les daily objectives
+- [x] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [x] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
 * [x] Comprendre les termes "local", "origin" et "upstream"
 * [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
