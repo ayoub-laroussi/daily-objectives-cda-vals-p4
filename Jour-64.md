@@ -4,11 +4,11 @@
 
 ### Diagramme de classes - Notions avancées
 
-- [ ] Finir les objectifs de la veille
+- [x] Finir les objectifs de la veille
 
-- [ ] Approfondir les connaissances sur le diagramme de classes 
-  - [ ] Comprendre la notion d'association
-  - [ ] Etudier les différentes multiplicités et leur signification
+- [x] Approfondir les connaissances sur le diagramme de classes 
+  - [x] Comprendre la notion d'association
+  - [x] Etudier les différentes multiplicités et leur signification
   - [ ] Comprendre l'agrégation
   - [ ] Comprendre la composition
   - [ ] Etudier les différences entre les 2
