@@ -9,7 +9,7 @@
 - [x] Approfondir les connaissances sur le diagramme de classes 
   - [x] Comprendre la notion d'association
   - [x] Etudier les différentes multiplicités et leur signification
-  - [ ] Comprendre l'agrégation
+  - [x] Comprendre l'agrégation
   - [ ] Comprendre la composition
   - [ ] Etudier les différences entre les 2
   - [ ] Intégrer les packages
