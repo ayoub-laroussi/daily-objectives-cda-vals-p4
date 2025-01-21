@@ -4,4 +4,4 @@
 
 ### Activité spéciale
 
-- [x] C'est la Katastrophe 
+- [ ] C'est la Katastrophe 

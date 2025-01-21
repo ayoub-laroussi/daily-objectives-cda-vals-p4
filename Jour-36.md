@@ -4,4 +4,4 @@
 
 ### Brief "Au bon deal" - Jour 1
 
-- [x] Travailler sur le Brief "Au bon deal"
+- [ ] Travailler sur le Brief "Au bon deal"

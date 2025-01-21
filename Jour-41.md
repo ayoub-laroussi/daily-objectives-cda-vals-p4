@@ -4,4 +4,4 @@
 
 ### Rattrapage et consolidation des concepts MERISE
 
-- [x] Revue des concepts clés abordés jusqu'à présent
+- [ ] Revue des concepts clés abordés jusqu'à présent
